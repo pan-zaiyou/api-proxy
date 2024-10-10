@@ -1,0 +1,8 @@
+[build]
+  publish = "/"
+  command = "echo 'Netlify project for V2Board API proxy'"
+
+[[redirects]]
+  from = "/*"
+  to = "https://abc.com/:splat"
+  status = 200
