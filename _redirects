@@ -1,2 +1,2 @@
-/api/*    https://abc.com/api/:splat    200
+/api/*    https://sub.heycloud.club/api/:splat    200
 /*        /404.html     404
