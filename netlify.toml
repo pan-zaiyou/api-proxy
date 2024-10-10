@@ -4,5 +4,5 @@
 
 [[redirects]]
   from = "/*"
-  to = "https://abc.com/:splat"
+  to = "https://sub.heycloud.club/:splat"
   status = 200
